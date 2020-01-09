@@ -12,7 +12,7 @@ import javax.jms.Queue;
 import javax.jms.Topic;
 
 /**
- * Hello world!
+ * 你好啊!!
  *
  */
 @SpringBootApplication
